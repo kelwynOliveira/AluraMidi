@@ -4,6 +4,6 @@ Project developed in the STARTING IN PROGRAMMING course - [Alura](https://www.al
 
 The project uses JavaScript to play a instrument song when a button is pressed.
 
-[Project webpage](https://github.com/kelwynOliveira/aluramidi/)
+[Project webpage](https://kelwynoliveira.github.io/aluramid/)
 
 ![](./thumb.PNG)
