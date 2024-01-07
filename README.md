@@ -6,4 +6,4 @@ The project uses JavaScript to play a instrument song when a button is pressed.
 
 [Project webpage](https://kelwynoliveira.github.io/aluramidi/)
 
-[![](./thumb.PNG)](https://kelwynoliveira.github.io/aluramidi/)
+[![](./thumb.jpg)](https://kelwynoliveira.github.io/aluramidi/)
